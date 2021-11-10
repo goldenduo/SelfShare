@@ -5,11 +5,11 @@
   "minUsableVersion": 1,
   "showAd": false,
   "priceTable": {
-    "month": 20.00,
-    "year": 21.00,
-    "forever": 22.00,
-    "dollarMonth": 5.00,
-    "dollarYear": 6.00,
-    "dollarForever": 7.00
+    "month": "20.00",
+    "year": "21.00",
+    "forever": "22.00",
+    "dollarMonth": "5.00",
+    "dollarYear": "6.00",
+    "dollarForever": "7.00"
   }
 }
